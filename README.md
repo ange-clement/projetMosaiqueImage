@@ -38,7 +38,7 @@ Compute PIPELINE : `g++ -o test test_pipeline.cpp -lstdc++fs`
 
 ## Documentations :
 - Project summary : &emsp;&emsp;&emsp;
-[<img align="center" src="./presentations/french.png" width="50" height="50"/>](./presentations/RAPPORT DE PROJET IMAGE - HAI809I_HAI804I.pdf)
+[<img align="center" src="./presentations/french.png" width="50" height="50"/>](./presentations/"RAPPORT DE PROJET IMAGE - HAI809I_HAI804I.pdf")
 
 - Project presentation : &nbsp;&emsp;
 [<img align="center" src="./presentations/french.png" width="50" height="50"/>](./presentations/Mosaïque.pdf)
