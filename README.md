@@ -4,7 +4,7 @@ Project done as part of the image processing and compression teaching unit.
 
 <p align="center">
 <a href="./presentations/mosaique100X100.jpg">
-<img align="center" src="./presentations/mosaique100X100.jpg" width="800" height="500"/>
+<img align="center" src="./presentations/mosaique100X100.jpg" width="500" height="800"/>
 </a>
 </p>
 
