@@ -1,4 +1,4 @@
-# projetMosaiqueImage
+# Mosaic image project
 
 Project done as part of the image processing and compression teaching unit.
 
